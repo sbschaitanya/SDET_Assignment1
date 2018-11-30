@@ -10,7 +10,6 @@ public class AdminPage {
 	public AdminPage(WebDriver driver)
 	{
 		this.driver=driver;
-		
 	}
 
 	private By userName=By.id("searchSystemUser_userName");
